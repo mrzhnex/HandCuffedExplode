@@ -1,8 +1,5 @@
 ﻿using UnityEngine;
-using Grenades;
 using EXILED.Extensions;
-using System.Linq;
-using Mirror;
 
 namespace HandCuffedExplode
 {
